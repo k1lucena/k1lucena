@@ -35,10 +35,10 @@ Engenheiro de Software Full Stack focado na arquitetura e modernização de sist
 
 <div align="center">
   <p>
-  <a href="https://www.k1lucena.com.br/" target="_blank">
+  <a href="https://www.k1lucena.com.br/" target="blank">
       <img src="https://img.shields.io/badge/_Portfólio-0D1117?style=for-the-badge" alt="Portfólio">
     </a>
-    <a href="https://www.linkedin.com/in/kllucena/" target="_blank">
+    <a href="https://www.linkedin.com/in/k1lucena/" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:ka.luc@hotmail.com">
