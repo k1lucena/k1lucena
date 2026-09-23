@@ -1,61 +1,48 @@
-<h1 align="left">👨🏻‍💻 Kauan Lucena</h1>
-
-###
-
-<h6 align="left">Estudante de Ciência da Computação | Desenvolvedor em formação</h6>
-
-###
-
-<p align="left">Me chamo Kauan Lucena, sou estudante de Ciência da Computação na UESPI e Desenvolvedor Full Stack Java. Tenho interesse em desenvolvimento de software e tecnologias em geral. Utilizo este GitHub para compartilhar projetos, estudos e experimentos, com foco no aprendizado contínuo e em código bem estruturado.</p>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0052cc&height=250&section=header&text=Olá,%20sou%20o%20Kauan%20Lucena!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software%20Full%20Stack&descAlignY=51&descAlign=62&fontColor=ffffff" alt="Header Animado"/>
 </div>
 
-###
+## 💡 Sobre Mim
 
-<h2 align="left">Linguagens e Tecnologias</h2>
+Engenheiro de Software Full Stack focado na arquitetura e modernização de sistemas corporativos. Especialista no ecossistema Java e Next.js, atuo na construção de soluções escaláveis, integração de dados e motores de auditoria para os setores financeiro, de saúde e de gestão pública.
 
-###
+## 🛠️ Competências Técnicas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+<div align="center">
+  <h3>Arquitetura & Backend</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,php,kafka&theme=dark" alt="Backend Skills" />
+  
+  <h3>Frontend & UI</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,html,css&theme=dark" alt="Frontend Skills" />
+
+  <h3>Engenharia de Dados, DevOps & Infraestrutura</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,aws,githubactions,linux,git,jest&theme=dark" alt="Data and DevOps" />
 </div>
 
-###
-
-<h2 align="left">Estatísticas</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=k1lucena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k1lucena&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<br>
+<div align="center">
+  <i>Outras ferramentas: Arquitetura Hexagonal, Clean Architecture, JasperReports, PWA, IndexedDB, Fabric.js, JSF.</i>
 </div>
 
-###
+## 🚀 Destaques de Engenharia e Impacto
+
+- 🔄 **Modernização de Sistemas Legados:** Condução da transição de plataformas monolíticas para arquiteturas modernas, ágeis e modulares baseadas em Next.js, React e TypeScript.
+- 📊 **Motores de Auditoria Financeira:** Desenvolvimento de validadores automatizados voltados para a conciliação de contratos e pagamentos, solucionando inconsistências e otimizando rotinas administrativas.
+- 🏛️ **Processamento e Otimização de Dados:** Criação e otimização de consultas SQL avançadas para integração e análise de grandes volumes de informações em sistemas de operação logística e processos administrativos.
+- ⚕️ **Aplicações Offline-First:** Construção de plataformas focadas na recolha e processamento local de dados, implementando algoritmos complexos para cálculo de escores e geração dinâmica de relatórios técnicos.
+
+## 📫 Contato
+
+<div align="center">
+  <p>
+  <a href="https://www.k1lucena.com.br/" target="_blank">
+      <img src="https://img.shields.io/badge/_Portfólio-0D1117?style=for-the-badge" alt="Portfólio">
+    </a>
+    <a href="https://www.linkedin.com/in/kllucena/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:ka.luc@hotmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
